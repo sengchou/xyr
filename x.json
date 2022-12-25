@@ -23,7 +23,7 @@
       "key": "换牙",
       "name": "huanya",
       "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php/provide/vod/at/xml/",
+      "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
