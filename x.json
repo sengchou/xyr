@@ -3,7 +3,7 @@
     {
       "key": "kun",
       "name": "ikun",
-      "type": 3,
+      "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
@@ -12,7 +12,7 @@
     {
       "key": "huanggau",
       "name": "haunggua",
-      "type": 3,
+      "type": 1,
       "api": "https://www.ziyuan029/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
