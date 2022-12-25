@@ -12,8 +12,9 @@
     {
       "key": "huanggau",
       "name": "haunggua",
-      "type": 1,
-      "api": "https://www.ziyuan029.com/api.php/provide/vod/?ac=list",
+      "type": 0,
+      "api": "https://www.ziyuan029.com/api.php/provide/vod/at/xml",
+      "playUrl":"https://www.ziyuan029.com/dplayer/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
