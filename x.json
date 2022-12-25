@@ -12,7 +12,7 @@
     {
       "key": "huanggau",
       "name": "haunggua",
-      "type": 1,
+      "type": 0,
       "api": "https://www.ziyuan029/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
