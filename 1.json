@@ -1,14 +1,5 @@
 {
-  "sites": [
-    {
-      "key": "huanggua",
-      "name": "黄瓜",
-      "type": 0,
-      "api": "https://www.ziyuan029.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    }
+
     {
       "key": "huanggua",
       "name": "黄瓜",
