@@ -9,5 +9,14 @@
       "quickSearch": 1,
       "filterable": 0
     }
+    {
+      "key": "huanggua",
+      "name": "黄瓜",
+      "type": 1,
+      "api": "https://www.ziyuan029.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
   ]
 }
