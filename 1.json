@@ -1,19 +1,19 @@
 {
   "sites": [
     {
-      "key": "huanggua",
-      "name": "黄瓜",
-      "type": 3,
-      "api": "https://www.ziyuan029/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    }
-    {
       "key": "kun",
       "name": "ikun",
       "type": 3,
       "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "huanggau",
+      "name": "haunggua",
+      "type": 3,
+      "api": "https://www.ziyuan029/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
