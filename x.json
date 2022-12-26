@@ -17,6 +17,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+     {
+      "key": "6080",
+      "name": "6080",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/sengchou/xyr/blob/main/6080.json"
     }
   ],
   "spider": "https://github.com/sengchou/xyr/blob/main/0730.jar"
