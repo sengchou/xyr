@@ -3,7 +3,7 @@
     {
       "key": "kun",
       "name": "ikun",
-      "type": 1,
+      "type": 3,
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
@@ -12,30 +12,12 @@
     {
       "key": "huanggau",
       "name": "haunggua",
-      "type": 1,
-      "api": "https://www.ziyuan029.com/api.php/provide/vod/?at=list",
-      "playUrl":"",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
- {
-      "key": "换牙",
-      "name": "huanya",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-{
-      "key": "ziyuan",
-      "name": "btt",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/jsonsapi.php?ac=videolist",
+      "type": 3,
+      "api": "https://www.ziyuan029/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     }
-  ]
+  ],
+  "spider": "https://github.com/sengchou/xyr/blob/main/0730.jar"
 }
