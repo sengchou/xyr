@@ -1,5 +1,4 @@
-{
-  "author": "os",
+"author": "os",
   "name": "6080",
   "url": "https://www.6080dy2.com/",
   "tihuan": "cnzz.com",
@@ -8,20 +7,20 @@
   "User": "空",
   "shouye": "1",
   // 网站列表的分类
-   "fenlei": "电影$/vodtype/1#电视剧$/vodtype/2#综艺$/vodtype/3#综艺$/vodtype/1#动漫$/vodtype/4,
+   "fenlei": "#动作片$vodtype/25#喜剧片$vodtype/26#爱情片$vodtype/27#科幻片$vodtype/28#恐怖片$vodtype/30#剧情片$vodtype/31#战争片$vodtype/33#记录片$vodtype/35#悬疑片$vodtype/36#国产剧$vodtype/42",
    //"fenlei": "电影$/vodshow/1--------#电视剧$/vodshow/2--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#国漫$/vodshow/4-中国大陆-------#日漫$/vodshow/4-日本-------#理伦$/vodshow/20--------#动作$/vodshow/5--------#喜剧$/vodshow/6--------#爱情$/vodshow/7--------#科幻$/vodshow/8--------#恐怖$/vodshow/9--------#剧情$/vodshow/10--------#战争$/vodshow/11--------#纪录片$/vodshow/22--------#国产剧$/vodshow/12--------#港剧$/vodshow/13--------#台剧$/vodshow/14--------#日剧$/vodshow/15--------#韩剧$/vodshow/16--------#美剧$/vodshow/17--------#海外剧$/vodshow/18--------",
   // 网站翻页链接的后缀
   "houzhui": ".html",
 
   // 截取的列表数组是否需要二次截取，0不需要，1需要，空
-  "shifouercijiequ": "0",
-  "jiequqian": "空",
-  "jiequhou": "空",
+  "shifouercijiequ": "1",
+  "jiequqian": "module-item-cove",
+  "jiequhou": "module-item-caption",
   // 截取的列表数组的前，后关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuqian": "class=\"stui-vodlist__box",
-  "jiequshuzuhou": "</span>",
+  "jiequshuzuqian": "<a",
+  "jiequshuzuhou": "</a>",
   // 列表中资源的图片前,后关键词
-  "tupianqian": "original=\"",
+  "tupianqian": "data-src=",
   "tupianhou": "\"",
   //列表中资源的标题前,后关键词
   "biaotiqian": "title=\"",
@@ -69,12 +68,12 @@
   "juqinghou": "</span>",
 
   // 播放页是否需要二次截取，0不需要，1需要，空
-  "bfyshifouercijiequ": "0",
-  "bfyjiequqian": "空",
+  "bfyshifouercijiequ": "1",
+  "bfyjiequqian": "<a href=",
   "bfyjiequhou": "空",
   // 播放剧集数组前,后关键词
-  "bfyjiequshuzuqian": "<a",
-  "bfyjiequshuzuhou": "/a>",
+  "bfyjiequshuzuqian": "id="sort-item-1",
+  "bfyjiequshuzuhou": " </div>",
   // 播放剧集标题前,后关键词
   "bfbiaotiqian": ">",
   "bfbiaotihou": "<",
