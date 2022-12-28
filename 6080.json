@@ -1,40 +1,38 @@
 {
   "author": "05",
   "name": "新视角",
-  "url": "https://www.6080dy2.com/",
+  "url": "http://www.zbkyy.com",
   "tihuan": "cnzz.com",
-  // 这个不用动，是个别网站播放需要请求头时才用到  
-  //"User": "User-Agent:Dart/2.14 (dart:io)",
+  
   "User": "空",
   "shouye": "1",
-  // 网站列表的分类
-   "fenlei":  "fenlei": "电影$/vodshow/1--------#电视剧$/vodshow/2--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------",
-   //"fenlei": "电影$/vodshow/1--------#电视剧$/vodshow/2--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#国漫$/vodshow/4-中国大陆-------#日漫$/vodshow/4-日本-------#理伦$/vodshow/20--------#动作$/vodshow/5--------#喜剧$/vodshow/6--------#爱情$/vodshow/7--------#科幻$/vodshow/8--------#恐怖$/vodshow/9--------#剧情$/vodshow/10--------#战争$/vodshow/11--------#纪录片$/vodshow/22--------#国产剧$/vodshow/12--------#港剧$/vodshow/13--------#台剧$/vodshow/14--------#日剧$/vodshow/15--------#韩剧$/vodshow/16--------#美剧$/vodshow/17--------#海外剧$/vodshow/18--------",
-  // 网站翻页链接的后缀
-  "houzhui": "---.html",
+ 
+   "fenlei": "电影$/vodshow/1--------#电视剧$/vodshow/2--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#新锯片$/vodshow/26--------#动作片$/vodshow/25--------#爱情片$/vodshow/27--------#科幻片$/vodshow/28--------#恐怖片$/vodshow/30--------#剧情片$/vodshow/31--------#战争片$/vodshow/33--------#纪录片$/vodshow/35--------#悬疑片$/vodshow/36--------#犯罪片$/vodshow/46--------##大陆$/vodshow/1-大陆-------#香港$/vodshow/1-香港-------#台湾$/vodshow/1-台湾-------#国产剧$/vodshow/42--------",
+   
+  
+  "houzhui": "---/",
 
-  // 截取的列表数组是否需要二次截取，0不需要，1需要，空
+  
   "shifouercijiequ": "0",
   "jiequqian": "空",
   "jiequhou": "空",
-  // 截取的列表数组的前，后关键词,截取的关键词有 " 的用 \ 进行转义
+  
   "jiequshuzuqian": "module-item-pic",
   "jiequshuzuhou": "class=\"loading\"",
-  // 列表中资源的图片前,后关键词
+
   "tupianqian": "data-src=",
   "tupianhou": "\"",
-  //列表中资源的标题前,后关键词
+ 
   "biaotiqian": "title=\"",
   "biaotihou": "\"",
-  // 列表中资源的详情页跳转链接前关键词
+ 
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
 
-  // 搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的
+  
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
-  // 搜索页，影片跳转详情页的中间标识链接部分
-  "sousuohouzhui": "/video/",
+  
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
   "jspic": "pic",
@@ -51,14 +49,14 @@
   "sslianjieqian": "空",
   "sslianjiehou": "空",
 
-   // 截取的播放列表数组是否需要二次截取，0不需要，1需要，空
+   
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  // 播放截取的列表数组的前,后关键词
+  
   "bfjiequshuzuqian": "class=\"sort-item",
   "bfjiequshuzuhou": "</a>",
-  // 详情页状态,导演,主演,简介关键词
+  
   "zhuangtaiqian": "更新：</span>",
   "zhuangtaihou": "</p>",
   "daoyanqian": "导演：</span>",
@@ -68,17 +66,18 @@
   "juqingqian": "剧情：</span>",  
   "juqinghou": "</div>",
 
-  // 播放页是否需要二次截取，0不需要，1需要，空
+  
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
   "bfyjiequhou": "空",
-  // 播放剧集数组前,后关键词
+ 
   "bfyjiequshuzuqian": "<a",
   "bfyjiequshuzuhou": "/a>",
-  // 播放剧集标题前,后关键词
+  
   "bfbiaotiqian": ">",
   "bfbiaotihou": "<",
-  // 播放剧集链接前,后关键词
+  
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""
 }
+
