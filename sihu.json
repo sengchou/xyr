@@ -1,0 +1,82 @@
+{
+    "author": "ajk",
+    "ua": "",
+    
+    "homeUrl": "https://www.h345w.com/",
+  
+   
+    "homeVodNode": "/html/body/div[6]/div/div/dl",
+   
+    "homeVodName": "/dt/a/@title",
+   
+    "homeVodNameR": "",
+   
+    "homeVodId": "/dt/a/@href",
+  "homeVodIdR":"/html/(\\d+)/(\\d+).html",
+ 
+    "homeVodImg": "/dt/a/img/@src",
+
+    "homeVodImgR": "",
+  
+    "homeVodMark": "/dt/a/@title",
+  
+    "homeVodMarkR": "",
+  
+    "cateUrl": "https://www.h345w.com/video/{cateid}/index_{catePg}.html",
+   
+    "cateVodNode": "/html/body/div[6]/div/div/dl",
+    "cateVodName": "/dt/a/@title",
+    "cateVodId": "/dt/a/@href",
+    "cateVodIdR": "/html/(\\d+)/(\\d+).html",
+    "cateVodImg": "/dt/a/img/@src",
+    "cateVodMark": "/dt/a/@title",
+    
+    "dtUrl": "https://www.h345w.com/html/{vid}/{vid}.html",
+    
+    "dtNode": "/html/body/div[6]",
+    
+    "dtName": "/html/body/div[6]/div/div[1]/text()[4]",
+    "dtNameR": "",
+    
+    "dtImg": "",
+    "dtImgR": "",
+    
+    "dtCate": "/html/body/div[6]/div/div[1]/a[3]/text()",
+    "dtCateR": "",
+   
+    "dtYear": "/html/body/div[6]/div/div[2]/div[6]/p[2]/text()",
+    
+    "dtDesc": "/html/body/div[6]/div/div[2]/div[6]/h3/text()",
+    "dtDescR": "",
+    
+    "dtFromNode": "//div[contains(@class,'tabs')]/ul[@class='t-ul']",
+    
+    "dtFromName": "concat('播放源',count(parent::*/preceding::*//div[contains(@class,'tabs')]/ul[@class='t-ul']) + 1)",
+  
+    "dtFromNameR": "(\\S+).0",
+    
+    "dtUrlNode": "/html/body/div[6]/div/div[2]/div[4]/div",
+    
+    "dtUrlSubNode": "/a",
+    
+    "dtUrlId": "/@href",
+   
+    "dtUrlIdR": "/html/body/div[6]/div/div[2]/dl[1]/dt/a",
+    
+    "dtUrlName": "/text()",
+   
+    "dtUrlNameR": "",
+   
+    "playUrl": "https://www.h345w.com/{palyUrl}",
+ 
+    "playUa": "",
+   
+    "searchUrl": "https://www.xqmi.top/index.php/vod/search.html?wd={wd}",
+
+    "scVodNode": "/html/body/div[6]/div/div/dl",
+    "scVodName": "/dt/a/@title",
+    "scVodId": "/dt/a/@href",
+    "scVodIdR": "/html/(\\d+)/(\\d+).html",
+    "scVodImg": "/dt/a/img/@src",
+    "scVodMark": "/span[@class='pic-text text-right']/text()"
+}
