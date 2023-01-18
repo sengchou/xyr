@@ -23,11 +23,11 @@
       "key": "6080",
       "name": "6080",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_Xpath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/sengchou/xyr/main/6080.json"
+      "ext": "https://github.com/sengchou/xyr/blob/main/sihu.json"
     },
     {
     "key": "csp_Aidi",
@@ -132,7 +132,7 @@
     "key": "csp_YydsAli1",
     "name": "YYDS阿里(爬虫)",
     "type": 3,
-    "api": "csp_YydsAli1",
+    "api": "csp_xpath",
     "searchable": 1,
     "quickSearch": 0,
     "filterable": 0
